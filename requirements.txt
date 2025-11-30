@@ -1,0 +1,3 @@
+pyspark
+telethon
+confluent-kafka
