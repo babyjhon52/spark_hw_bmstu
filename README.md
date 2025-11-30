@@ -33,3 +33,11 @@ python consumer.py
 
 Результат парсинга
 ![alt text](image.png)
+
+## Домашнее задание 4. Рекомендательные системы и Spark MLlib
+
+Запустить ноутбук:
+
+```bash
+jupyter notebook spark_hw4.ipynb
+```
